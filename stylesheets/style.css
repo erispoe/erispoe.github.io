@@ -1,7 +1,9 @@
 .card img {
-  width: 100%; }
+  width: 100%;
+  max-width: 100%; }
 
 #helloblock img {
-  width: 100%; }
+  width: 100%;
+  max-width: 100%; }
 
 /*# sourceMappingURL=style.css.map */
